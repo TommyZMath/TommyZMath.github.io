@@ -1,0 +1,18 @@
+<html style="font-family:'Courier New', Courier, monospace;">
+<h1>Projects</h1>
+<p>
+  <a href="https://docs.google.com/presentation/d/1QJHb01NamI3Q5Y2UDqxAxSZY3ym2HzV3HeXZJHR8C58/preview" target="_blank" rel="noopener noreferrer">
+    <strong>Introduction to Fractals and Dynamics</strong>
+  </a>
+  <br>
+  <em>NYU Summer Undergraduate Research Experience (SURE) Presentation Slides</em>
+</p>
+
+<p>
+  These slides introduce an undergraduate audience to ideas of Hausdorff measure and dimension,
+  with an emphasis on concrete examples and deep connections to dynamical systems,
+  culminating in the presentation of Young's formula for the Hausdorff dimension of attractors.
+</p>
+<a href="index.html"> <button type="button", style="font-family:'Courier New', Courier, monospace;"> take me back!
+</button></a>
+</html>
